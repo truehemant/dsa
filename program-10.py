@@ -1,5 +1,5 @@
 '''
-Q9: Write a program in python to create and display single Linked list of n nodes and display it in reverse order
+Q10: Write a program in python to create and display single Linked list of n nodes and display it in reverse order
 input the number of nodes
 
 input data for node 1 : 5

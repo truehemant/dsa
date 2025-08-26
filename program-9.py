@@ -1,4 +1,4 @@
-# Q10: Write a program in python to create and display single Linked list
+# Q9: Write a program in python to create and display single Linked list
 # input the number of nodes
 
 # input data for node 1 : 5
