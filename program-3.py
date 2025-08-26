@@ -1,4 +1,4 @@
-# Write a program to perform push operation and display array in stack by using array in python.
+# Q3: Write a program to perform push operation and display array in stack by using array in python.
 
 Max = 5
 stack = []

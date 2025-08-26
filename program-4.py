@@ -1,4 +1,4 @@
-# Write a program to pop and display operation in the stack by using array.
+# Q4: Write a program to pop and display operation in the stack by using array.
 
 stack = [10, 20, 30, 40, 50]
 def display():
