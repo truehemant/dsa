@@ -1,4 +1,4 @@
-# 24: Write a program to find out only value by the user Using binary search Technique.
+# Q24: Write a program to find out only value by the user Using binary search Technique.
 
 def binary_search(arr, target):
     arr = sorted(arr)
