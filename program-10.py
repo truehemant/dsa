@@ -1,5 +1,5 @@
 '''
-Q10: Write a program in python to create and display single Linked list of n nodes and display it in reverse order
+Q10: Write a program in python to create and display singly Linked list of n nodes and display it in reverse order
 input the number of nodes
 
 input data for node 1 : 5
@@ -54,7 +54,7 @@ class LinkedList:
         
         _reverse_display(self.head)
 
-print('Linked List To Create and display single linked list')
+print('Linked List To Create and display singly linked list')
 print('-------------------------------------------')
 n = int(input("Enter the number of nodes: "))
 linked_list = LinkedList()
@@ -73,7 +73,7 @@ linked_list.reverse_display()
 '''
 OUTPUT
 
-Linked List To Create and display single linked list
+Linked List To Create and display singly linked list
 -------------------------------------------
 Enter the number of nodes: 3
 Enter data for node 1: 10
